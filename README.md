@@ -1,5 +1,9 @@
 # fonts-khmer-extra
 
+Khmer is the language spoken by the khmer people.
+It is the official language of Cambodia.It is also
+spoken in Thailand and Vietnam. This collection
+contains the following fonts.
 
 1. Kantumruy
 2. Hanuman
