@@ -43,4 +43,7 @@ contains the following fonts.
 36. Khmer-Busra-Diagnostic
 37. Khmer-Busra-Dict
 38. Khmer-Busra-Bunong
+39. Kantumruy-Pro
+40. Kdam Thmor Pro
+41. Siemreap
 
